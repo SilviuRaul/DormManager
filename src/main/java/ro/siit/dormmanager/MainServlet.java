@@ -15,7 +15,7 @@ public class MainServlet extends HttpServlet {
         req.setAttribute("data", new Date());
 
         String[] names = new String[3];
-        names[0] = "Ana";
+        names[0] = "aAna";
         names[1] = "Dana";
         names[2] = "Liza";
 
